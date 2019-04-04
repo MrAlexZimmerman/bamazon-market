@@ -39,7 +39,7 @@ The customer interface:
 3) Asks how many items the customer would like to purchase
 4) Confirms order & updates product inventory in database
 ```
-![customer demo][1_bamazonCustomer]
+![customer demo][customer_demo.git]
 
 [Scroll to top](#top)
 
