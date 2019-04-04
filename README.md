@@ -1,4 +1,4 @@
-#:collision: # BAMazon Marketplace :computer: :package:
+#:collision: BAMazon Marketplace :computer: :package:
 ___
 
 ## Overview
