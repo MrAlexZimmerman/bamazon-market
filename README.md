@@ -39,7 +39,7 @@ The customer interface:
 3) Asks how many items the customer would like to purchase
 4) Confirms order & updates product inventory in database
 ```
-![customer demo][customer_demo.git]
+![customer demo][1_bamazonCustomer]
 
 [Scroll to top](#top)
 
@@ -109,22 +109,22 @@ ___
 ___
 
 [1_bamazonCustomer]: 
-http://g.recordit.co/nYYlpy6D49.gif "customer demo"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/.gif "customer_demo"
 
 [2_bamazonManager]: 
-https://github.com/chzwzrd/Bamazon/blob/master/screenshots/2.png "list of actions"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/2.png "list of actions"
 
 [3_bamazonManager]: 
-https://github.com/chzwzrd/Bamazon/blob/master/screenshots/3.png "view active products"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/3.png "view active products"
 
 [4_bamazonManager]: 
-https://github.com/chzwzrd/Bamazon/blob/master/screenshots/4.png "view low inventory"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/4.png "view low inventory"
 
 [5_bamazonManager]: 
-https://github.com/chzwzrd/Bamazon/blob/master/screenshots/5.png "add to inventory"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/5.png "add to inventory"
 
 [6_bamazonManager]: 
-https://github.com/chzwzrd/Bamazon/blob/master/screenshots/6.png "add new product"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/6.png "add new product"
 
 [7_bamazonManager]: 
-https://github.com/chzwzrd/Bamazon/blob/master/screenshots/7.png "remove a product"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/7.png "remove a product"
