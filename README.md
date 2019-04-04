@@ -1,4 +1,4 @@
-:collision: # BAMazon Marketplace <a id="top"></a> :computer: :package:
+#:collision: # BAMazon Marketplace :computer: :package:
 ___
 
 ## Overview
