@@ -1,6 +1,4 @@
 # Bamazon <a id="top"></a>
-Week 12 Homework
-
 ___
 
 ## Overview
@@ -23,8 +21,8 @@ If you do not have MySQL database already set up on your machine, visit the [MyS
 Once you have the Bamazon database set up, run these commands in the command line:
 
 ```
-git clone https://github.com/chzwzrd/Bamazon.git
-cd Bamazon
+git clone https://github.com/MrAlexZimmerman/bamazon-market.git
+cd bamazon-market
 npm install
 node bamazonCustomer.js
 ```
@@ -107,11 +105,6 @@ ___
 	- [inquirer](https://www.npmjs.com/package/inquirer)
 	- [chalk](https://www.npmjs.com/package/chalk)
 	- [cli-table](https://www.npmjs.com/package/cli-table)
-
-___
-
-## Contributors
-[Melodie Chi](https://github.com/chzwzrd/) (Inspiration for this README is credited to: [angrbrd](https://github.com/angrbrd/), [kellymersereau](https://github.com/kellymersereau), and [ramirolpz55](https://github.com/ramirolpz55))
 
 ___
 
