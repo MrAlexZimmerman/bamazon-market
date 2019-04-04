@@ -109,7 +109,7 @@ ___
 ___
 
 [1_bamazonCustomer]: 
-https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/.gif "customer_demo"
+https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/customer_demo.gif 
 
 [2_bamazonManager]: 
 https://github.com/MrAlexZimmerman/bamazon-market/blob/master/screenshots/2.png "list of actions"
